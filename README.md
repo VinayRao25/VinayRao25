@@ -9,7 +9,6 @@
 
 
 
-[![telegram badge](https://img.shields.io/badge/VinayRao25-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VinayRao25&label=Profile%20views&color=0e75b6&style=flat" alt="VinayRao25" /> </p>
 
