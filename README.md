@@ -54,10 +54,10 @@
 
 class About extends Me {
   const myTools = {
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
+    "ProgramingLanguages" : { "C", "C++", "Python", "Javascript", "Java", "SQL" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+    "Database" : { "Mongodb", "Mysql" },
+    "Editors" : { "Vscode", "Xcode", "Sublime" },
     "Platforms" : { "Mac", "GNU/Linux", "Windows" },
     "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
   };
