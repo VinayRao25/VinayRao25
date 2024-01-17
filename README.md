@@ -7,13 +7,12 @@
 
 <img src="https://github.com/VinayRao25
 /VinayRao25
-/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/VinayRao25
+/blob/mains/images/dev-working_rounded.gif?raw=true" href="https://github.com/VinayRao25
 " alt="CoDiNg RocKs"  width="60%"/><br>
 
 
 
-[![telegram badge](https://img.shields.io/badge/VinayRao25
--grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VinayRao25
 &label=Profile%20views&color=0e75b6&style=flat" alt="VinayRao25
