@@ -1,26 +1,16 @@
 <div align="center" width="50">
 
-<!-- <img src="https://github.com/VinayRao25
-/VinayRao25
-/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/VinayRao25
-" alt="Hello Coders" width="70%"/> <br> -->
+<!-- <img src="https://github.com/VinayRao25/VinayRao25/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/VinayRao25" alt="Hello Coders" width="70%"/> <br> -->
 
-<img src="https://github.com/VinayRao25
-/VinayRao25
-/blob/mains/images/dev-working_rounded.gif?raw=true" href="https://github.com/VinayRao25
-" alt="CoDiNg RocKs"  width="60%"/><br>
+<img src="https://github.com/VinayRao25/VinayRao25/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/VinayRao25" alt="CoDiNg RocKs"  width="60%"/><br>
 
 
 
-<br>
+[![telegram badge](https://img.shields.io/badge/VinayRao25-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VinayRao25
-&label=Profile%20views&color=0e75b6&style=flat" alt="VinayRao25
-" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VinayRao25&label=Profile%20views&color=0e75b6&style=flat" alt="VinayRao25" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VinayRao25
-&theme=juicyfresh&no-frame=true" alt="VinayRao25
-" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VinayRao25&theme=juicyfresh&no-frame=true" alt="VinayRao25" /></a> </p>
 
 </div>
 
@@ -72,43 +62,26 @@ class About extends Me {
 }
 ```
 
-- <img alt="GIF" src="https://github.com/VinayRao25
-/VinayRao25
-/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/VinayRao25
-/VinayRao25
-/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/VinayRao25
-/VinayRao25
-/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/VinayRao25
-/VinayRao25
-/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Hamza](https://t.me/VinayRao25
-)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/VinayRao25
-/VinayRao25
-/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+- <img alt="GIF" src="https://github.com/VinayRao25/VinayRao25/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/VinayRao25/VinayRao25/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img src="https://github.com/VinayRao25/VinayRao25/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="https://github.com/VinayRao25/VinayRao25/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Hamza](https://t.me/VinayRao25)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/VinayRao25/VinayRao25/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
-<a  href="https://github.com/VinayRao25
-">
+<a  href="https://github.com/VinayRao25">
 
-<img src="https://raw.githubusercontent.com/VinayRao25
-/profile-card/master/profile-summary-card-output/2077/3-stats.svg" width="45%">
-<img src="https://raw.githubusercontent.com/VinayRao25
-/profile-card/master/profile-summary-card-output/2077/1-repos-per-language.svg" width="45%">
-<img src="https://raw.githubusercontent.com/VinayRao25
-/profile-card/master/profile-summary-card-output/2077/2-most-commit-language.svg" width="45%">
-<img src="https://raw.githubusercontent.com/VinayRao25
-/profile-card/master/profile-summary-card-output/2077/4-productive-time.svg" width="45%">
+<img src="https://raw.githubusercontent.com/VinayRao25/profile-card/master/profile-summary-card-output/2077/3-stats.svg" width="45%">
+<img src="https://raw.githubusercontent.com/VinayRao25/profile-card/master/profile-summary-card-output/2077/1-repos-per-language.svg" width="45%">
+<img src="https://raw.githubusercontent.com/VinayRao25/profile-card/master/profile-summary-card-output/2077/2-most-commit-language.svg" width="45%">
+<img src="https://raw.githubusercontent.com/VinayRao25/profile-card/master/profile-summary-card-output/2077/4-productive-time.svg" width="45%">
 
 </a>
 
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="https://raw.githubusercontent.com/VinayRao25
-/profile-card/master/profile-summary-card-output/2077/0-profile-details.svg" >
+<img align="center" src="https://raw.githubusercontent.com/VinayRao25/profile-card/master/profile-summary-card-output/2077/0-profile-details.svg" >
 
 </details>
   
@@ -122,8 +95,6 @@ class About extends Me {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
-<img src="https://github.com/VinayRao25
-/VinayRao25
-/blob/main/images/this_page_is.gif?raw=true"  width="40%">
+<img src="https://github.com/VinayRao25/VinayRao25/blob/main/images/this_page_is.gif?raw=true"  width="40%">
 
 </div>
