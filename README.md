@@ -1,5 +1,8 @@
-<div align="center" width="50">
+![Readme Banner](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
+<div align="center" width="50">
+<h1 align="center">Hi, I'm Vinay
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"> 
 <!-- <img src="https://github.com/VinayRao25/VinayRao25/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/VinayRao25" alt="Hello Coders" width="70%"/> <br> -->
 
 <img src="https://github.com/VinayRao25/VinayRao25/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/VinayRao25" alt="CoDiNg RocKs"  width="60%"/><br>
@@ -10,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VinayRao25&label=Profile%20views&color=0e75b6&style=flat" alt="VinayRao25" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VinayRao25&theme=juicyfresh&no-frame=true" alt="VinayRao25" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VinayRao25&no-frame=true" alt="VinayRao25" /></a> </p>
 
 </div>
 
@@ -71,17 +74,17 @@ class About extends Me {
 <div align="center" >
 <a  href="https://github.com/VinayRao25">
 
-<img src="https://raw.githubusercontent.com/VinayRao25/profile-card/master/profile-summary-card-output/2077/3-stats.svg" width="45%">
-<img src="https://raw.githubusercontent.com/VinayRao25/profile-card/master/profile-summary-card-output/2077/1-repos-per-language.svg" width="45%">
-<img src="https://raw.githubusercontent.com/VinayRao25/profile-card/master/profile-summary-card-output/2077/2-most-commit-language.svg" width="45%">
-<img src="https://raw.githubusercontent.com/VinayRao25/profile-card/master/profile-summary-card-output/2077/4-productive-time.svg" width="45%">
-
+<img src="https://raw.githubusercontent.com/VinayRao25/profile-card/master/profile-summary-card-output/dark/3-stats.svg" width="45%">
+<img src="https://raw.githubusercontent.com/VinayRao25/profile-card/master/profile-summary-card-output/dark/1-repos-per-language.svg" width="45%">
+<img src="https://raw.githubusercontent.com/VinayRao25/profile-card/master/profile-summary-card-output/dark/2-most-commit-language.svg" width="45%">
+<img src="https://raw.githubusercontent.com/VinayRao25/profile-card/master/profile-summary-card-output/dark/4-productive-time.svg" width="45%">
+s
 </a>
 
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="https://raw.githubusercontent.com/VinayRao25/profile-card/master/profile-summary-card-output/2077/0-profile-details.svg" >
+<img align="center" src="https://raw.githubusercontent.com/VinayRao25/profile-card/master/profile-summary-card-output/dark/0-profile-details.svg" >
 
 </details>
   
@@ -98,3 +101,4 @@ class About extends Me {
 <img src="https://github.com/VinayRao25/VinayRao25/blob/main/images/this_page_is.gif?raw=true"  width="40%">
 
 </div>
+
